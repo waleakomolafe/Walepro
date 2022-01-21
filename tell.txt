@@ -21,6 +21,10 @@ hjjkjk
 =======
 <div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div
 >>>>>>> bronco
+<<<<<<< HEAD
 =======
 <div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div  huytknbhbnjbbhb
 >>>>>>> bronco
+=======
+Git merge practice
+>>>>>>> c60a601b619f62c339e8ff83cb5473d3490bbb17
